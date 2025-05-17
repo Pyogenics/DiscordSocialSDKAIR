@@ -1,0 +1,1 @@
+This folder should contain `discord_social_sdk/`, if you do not have the Discord Social SDK then visit the Discord Developer Portal to download it or visit https://discord.com/developers/social-sdk.
